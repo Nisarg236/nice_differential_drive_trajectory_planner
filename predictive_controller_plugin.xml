@@ -1,0 +1,5 @@
+<library path="nice_differential_drive_trajectory_planner">
+  <class type="nice_differential_drive_trajectory_planner::PredictiveController" base_class_type="nav2_core::Controller">
+    <description>Route-guided tree search over motion primitives with predictive obstacle avoidance and independent safety validation, for forward-only differential-drive robots.</description>
+  </class>
+</library>
